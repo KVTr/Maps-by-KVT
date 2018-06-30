@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Maps by KVT
 
-You can use the [editor on GitHub](https://github.com/KVTr/Maps-by-KVT/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the primary location for all Minecraft Maps that KVT has contributed to.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**CTM Maps & The CTMC**
 
-### Markdown
+CTM (Complete the Monument) is a relatively unknown genre of Minecraft Maps that involves the collection of objectives through dungeons that mostly provide an experience enhanced from vanilla survival and more often than not, harder. The CTMC (CTM Community) is a small community of map makers and map players alike formed years ago, currently, they reside on the CTMC Discord Server, where users can discuss the creation of maps, their experiences, videos, and more. Community Events are also common among the CTMC, where events such as Quickfires, 3-Hour Miracles, Strawberry Jams, and larger collaborative mapping events take place. [CTMC Discord](https://discord.gg/YPKm44r)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Standard Rules of CTM Maps**
 
-```markdown
-Syntax highlighted code block
+1. Use at least Easy difficulty or higher (Never Peaceful).
+2. Do not craft the primary objective blocks for the monument.
+3. Do not use in-game commands.
+4. Do not leave the boundaries of the map.
+5. Use any strategy necessary to obtain the objectives.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KVTr/Maps-by-KVT/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
