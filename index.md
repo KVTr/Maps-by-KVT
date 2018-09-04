@@ -17,7 +17,7 @@ CTM (Complete the Monument) is a relatively unknown genre of Minecraft Maps that
 #
 # **Map Collection (Chronological)**
 **Quickfire 6: New Beginnings**
-![alt text](https://github.com/KVTr/Maps-by-KVT/blob/master/qf6.jpg "Quickfire 6 Image 1")
+![alt text](https://i.imgur.com/HhdQ7kkr.jpg "Quickfire 6 Image 1")
 
 <img src="https://github.com/KVTr/Maps-by-KVT/blob/master/wool.jpeg" width="20" height="20" />: 15 Objectives
 
